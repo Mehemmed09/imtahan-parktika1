@@ -1,0 +1,22 @@
+nav{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    position: relative;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 20px 40px;
+    gap: 20px;
+}
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
